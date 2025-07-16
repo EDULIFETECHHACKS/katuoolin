@@ -23,7 +23,7 @@ sudo su
  ```
 
 ```
-git clone https://github.com/ogaojohn/katuoolin.git 
+git clone https://github.com/EDULIFETECHHACKS/katuoolin.git 
 ```
 
 ```
@@ -64,7 +64,7 @@ Please visit or try contact https://github.com/edulifetechhacks/katuoolin/issues
 
 - ![Katuoolin youtube](.readme/katuoolin_youtube.png) <a href="https://www.youtube.com/channel/UCQHOO3RdEDOV6OkiLFec2lw"> Youtube</a>
 - ![Katuoolin whatsapp](.readme/katuoolin_whatsapp.jpg) <a href="https://wa.me/message/JIjiodM7f4T02D43gfjUTA">Whatsapp</a>
-- ![Katuoolin x](.readme/katuoolin_x.jpg)x: @ogaojohn
+- ![Katuoolin x](.readme/katuoolin_x.jpg)x: @EDULIFETECHHACKS
 - ![Katuoolin gmail](.readme/katuoolin_gmail.png) <a href="mailto:ogaojohn10@gmail.com">Email</a>
 - ![Katuoolin whatsappgroup](.readme/katuoolin_whatsappgroup.png)<a href="https://chat.whatsapp.com/JIjiodM7f4T02D43gfjUTA
 " >Whatsapp goup</a> 
