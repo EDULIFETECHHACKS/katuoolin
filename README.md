@@ -39,7 +39,7 @@ sudo python katuoolin.py
 ```
 
 # Video
-![Katuoolin youtube](.readme/katuoolin_youtube.jpg) <a href="https://www.youtube.com/channel/UCQHOO3RdEDOV6OkiLFec2lw">video link</a>
+![Katuoolin youtube](.readme/katuoolin_youtube.jpg) <a href="https://youtu.be/ADk3JMIKnvQ">video link</a>
 
 # Usage
 - Typing the number of a tool will install it
